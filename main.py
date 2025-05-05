@@ -7,8 +7,8 @@ import time
 from datetime import datetime
 
 # --- Telegram Bot Setup ---
-bot_token = '7865280601:AAEYYN8hfu1ap95lyKE_wyGC0LqkY9mCRuk' 
-chat_id = '1158871821'
+bot_token = 'YOUR_BOT_TOKEN' 
+chat_id = 'YOUR_CHAT_ID'
 bot = telepot.Bot(bot_token)
 
 # --- Load YOLOv5s Model (COCO classes) ---
